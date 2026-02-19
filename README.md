@@ -9,4 +9,4 @@ SQL Learning Repository
 - MySQL Database
 - Advance Concepts
 - POstgrelSQL 
-- 
+
